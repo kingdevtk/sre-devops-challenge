@@ -1,8 +1,5 @@
 **SRE/DevOps Challenge**
- ``` 
-SRE/DevOps Challenge
- 
-Overview
+ ```
 This challenge will test the following skills:
 Kubernetes orchestration
 CI systems
