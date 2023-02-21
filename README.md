@@ -11,7 +11,7 @@ Allow at least 3 hours to complete each part.
 Do not be discouraged if you are unable to complete aspects of the challenge—it is designed to test all levels of ability.
  
  
-Deliverables
+Deliverables: 
 Provide a single archive of all challenge files.
 Use the following layout:
 part-a/
